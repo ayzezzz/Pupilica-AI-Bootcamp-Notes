@@ -1,18 +1,17 @@
-# Pupilica Yapay Zeka Bootcamp Notları
+# Pupilica AI Bootcamp Notes  
 
-Bu repo, **Pupilica Yapay Zeka Bootcamp** kapsamında öğrendiğim  ders notları, uygulamalar ve projeleri içermektedir. Bootcamp boyunca edindiğim bilgileri burada paylaşıyor olacağım. :)
+This repository contains my lecture notes, applications, and projects from the **Pupilica AI Bootcamp**. Throughout the bootcamp, I will be sharing the knowledge and insights I gain here. :)  
 
-## İçerik
+## Content  
 
-**Bootcamp İçeriği:**
+### Bootcamp Topics:  
+- Fundamentals and advanced topics in Python programming  
+- Data analysis and visualization  
+- Machine learning and deep learning applications  
+- Project implementations and mini projects  
 
-- Python programlama temelleri ve ileri düzey konular
-- Veri analizi ve görselleştirme
-- Makine öğrenmesi ve derin öğrenme uygulamaları
-- Proje uygulamaları ve mini projeler
+## Cloning  
+You can clone this project to your computer and work on it locally:  
 
-
-1. **Klonlama:** 
-   Bu projeyi bilgisayarınıza klonlayarak çalışabilirsiniz.
-   ```bash
-   git clone https://github.com/ayzezzz/Pupilica-AI-Bootcamp-Notes.git
+```bash
+git clone https://github.com/ayzezzz/Pupilica-AI-Bootcamp-Notes.git
