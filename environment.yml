@@ -1,0 +1,29 @@
+name: pupilica-ai-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - jupyterlab
+  - notebook
+  - scipy
+  - tensorflow
+  - keras
+  - pytorch
+  - torchvision
+  - torchaudio
+  - opencv
+  - tqdm
+  - requests
+  - beautifulsoup4
+  - pip
+  - pip:
+      - transformers
+      - torchtext
+      - datasets
